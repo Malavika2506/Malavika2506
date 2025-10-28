@@ -13,7 +13,6 @@
 - 🌱 Currently exploring **Next.js 14**, **Redux Toolkit**, and **API optimization**  
 - 💬 Ask me about **React, Tailwind, and Frontend Performance Optimization**  
 - 📫 Reach me at: **[malavika2506@gmail.com](mailto:malavika2506@gmail.com)**  
-- 🔗 Portfolio: [https://dapper-trifle-9b7e42.netlify.app](https://dapper-trifle-9b7e42.netlify.app)
 
 ---
 
@@ -48,9 +47,9 @@
 
 ---
 
-### 🧩 Projects
+### 🧩 Top Projects
 
-#### 🚀 [Customer Relationship Management System](#)
+#### 🚀 [Customer Relationship Management System]
 *Aug 2025 – Present*  
 - Designed account management UI and contact module for seamless customer data handling.  
 - Built using **Next.js**, **React.js**, and **Redux** ensuring performance and scalability.
