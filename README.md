@@ -11,25 +11,6 @@
 ### 🎓 Education
 
 - 🎓 **B.Tech in Computer Science and Engineering** – KMCT College of Engineering for Women (2021–2025)
----
-### 💼 Experience
-
----
-
-#### **Front-End Developer**  
-**Buzcatch Pvt Ltd, Kerala (Present)**  
-- Built responsive dashboards using reusable React components for faster development.  
-- Converted UI/UX designs into clean, pixel-perfect pages using Tailwind, HTML, and CSS.  
-- Improved workflow using Git and optimized components for smoother performance.  
-
----
-
-#### **MERN Stack Developer Intern**  
-**CyberSquare Professionals, Kerala**  
-- Built and optimized front-end modules improving **API response time by 20%**.  
-- Enhanced UI responsiveness and accessibility by **30%** using reusable React components.  
-- Worked in an Agile team, ensuring smooth integration and deployment of interactive features.  
-
 
 ---
 
@@ -56,6 +37,13 @@
 ---
 
 ### 💼 Experience
+---
+#### **Front-End Developer**  
+**Buzcatch Pvt Ltd, Kerala (Present)**  
+- Built responsive dashboards using reusable React components for faster development.  
+- Converted UI/UX designs into clean, pixel-perfect pages using Tailwind, HTML, and CSS.  
+- Improved workflow using Git and optimized components for smoother performance.  
+
 
 **MERN Stack Developer Intern**  
 *CyberSquare Professionals, Kerala (Present)*  
