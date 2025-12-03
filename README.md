@@ -8,8 +8,11 @@
 💡 I enjoy transforming design ideas into elegant, user-friendly interfaces that solve real-world problems.  
 🎯 Always eager to learn new technologies and improve performance, scalability, and user experience.  
 
-- 🎓 **B.Tech in Computer Science and Engineering** – KMCT College of Engineering for Women (2021–2025)  
--### 💼 Experience
+### 🎓 Education
+
+- 🎓 **B.Tech in Computer Science and Engineering** – KMCT College of Engineering for Women (2021–2025)
+---
+### 💼 Experience
 
 ---
 
