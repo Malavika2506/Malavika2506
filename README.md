@@ -76,12 +76,7 @@
 **Campus Ambassador**, Kerala Knowledge Economy Mission (2024–2025)  
 - Promoted digital skills and project-based learning among students at KMCT CEW.
 
----
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-malatyo.vercel.app/api?username=Malavika2506&show_icons=true&theme=radical" alt="Malavika's GitHub Stats" />
-  <img src="https://github-readme-stats-malatyo.vercel.app/api/top-langs/?username=Malavika2506&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 ---
 
