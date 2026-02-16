@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malavika K</h1>
-<h3 align="center">Front-End Developer | MERN Stack Enthusiast | UI Builder</h3>
+<h3 align="center"> MERN Stack Developer | UI Builder</h3>
 
 ---
 
